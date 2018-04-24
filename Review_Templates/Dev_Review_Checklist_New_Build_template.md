@@ -48,4 +48,4 @@
    - [ ] NO HARD CODING
 - [ ] Unit Testing Pass
    - [ ] Code coverage is 75% or above for each component
-   - [ ]Assert() statements included
+   - [ ] Assert() statements included
