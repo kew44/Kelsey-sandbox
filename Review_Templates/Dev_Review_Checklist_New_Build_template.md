@@ -1,0 +1,51 @@
+- [ ] Functionality Pass
+   - [ ] Accuracy of Calculations
+   - [ ] All Buttons Click
+   - [ ] All Links Redirect
+   - [ ] JavaScript behaves appropriately
+   - [ ] Fields Recorded &/ Cleared Properly
+   - [ ] All Use Cases Considered
+- [ ] Data Pass
+   - [ ] Updated in Data Dictionary
+   - [ ] Fields Required when Specified
+   - [ ] Variable Type Correct
+   - [ ] Variable Precision Correct
+   - [ ] Variable Formatting Correct
+   - [ ] Fields are Called within Scope
+- [ ] Structure Pass
+   - [ ] Intuitive Temp Variables &/ Alias
+   - [ ] System.test() functions removed
+   - [ ] SOQL Outside of Loop
+   - [ ] Encapsulated/ called functions as practical
+   - [ ] Logical Scoping and References
+   - [ ] Efficiency
+   - [ ] Trigger Cases (Before, After, Insert, Update, etc.) Correct
+- [ ] Documentation Pass
+   - [ ] ApexDoc commenting headers
+   - [ ] Indention
+   - [ ] Descriptive comments
+   - [ ] Readability
+- [ ] Content Pass
+   - [ ] All content is displayed as specified by Data Team
+   - [ ] No Typos or stray characters
+   - [ ] Conditional displays/SkipLogic in place when appropriate
+   - [ ] Relevant header/footer
+   - [ ] Bold/italics/underline correct
+   - [ ] Format and page layout correct
+- [ ] Consistency Pass
+   - [ ] CSS is consistently applied
+   - [ ] code layout is consistent with other code of the same type
+   - [ ] naming schema is the same throughout
+   - [ ] All necessary custom components called
+- [ ] Security Pass
+   - [ ] JavaScript
+   - [ ] Testing
+   - [ ] Security review tool
+   - [ ] system settings
+   - [ ] static resources protected
+   - [ ] user permissions
+   - [ ] no test()
+   - [ ] NO HARD CODING
+- [ ] Unit Testing Pass
+   - [ ] Code coverage is 75% or above for each component
+   - [ ]Assert() statements included
